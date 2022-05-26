@@ -1,0 +1,2 @@
+# Geocoding
+Geotagowanie
